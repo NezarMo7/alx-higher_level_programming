@@ -7,5 +7,4 @@ result = 0
         result = None
     finally:
         print('Inside result: {}'.format(result))
-    return result
-    
+    return result    
